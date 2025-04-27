@@ -25,7 +25,7 @@ It uses:
 ### 1. Install dependencies
 
 ```bash
-pip install langchain-openai python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 2. Set up your `.env` file
